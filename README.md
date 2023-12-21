@@ -21,6 +21,7 @@ This repository demonstrates a simple architecture for WebRTC-based file transfe
 - Utilizes the `pion/webrtc` package in Golang for WebRTC implementation.
 - Implements a basic signaling mechanism for SDP offer/answer exchange.
 - Integrates a data channel for communication between servers.
+- Uses self-signed certificates for secure peer-to-peer connections.
 
 ### Database Schema
 
