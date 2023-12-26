@@ -64,3 +64,8 @@ This repository demonstrates a simple architecture for WebRTC-based file transfe
 ## Contributions
 
 Feel free to contribute by opening issues or pull requests. Your feedback and improvements are welcome!
+
+## Configure MinGW on a Windows machine and install TDM-GCC 10.3.0 release
+
+- (https://code.visualstudio.com/docs/cpp/config-mingw) read : Installing the MinGW-w64 toolchain
+- (https://jmeubank.github.io/tdm-gcc/articles/2021-05/10.3.0-release) read : TDM-GCC 10.3.0 release
