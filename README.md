@@ -1,4 +1,4 @@
-# WebRTC File Transfer with UDP Checksum
+# Simulating small-scale DPP transaction
 
 ## Overview
 
