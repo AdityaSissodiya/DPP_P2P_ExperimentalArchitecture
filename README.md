@@ -1,4 +1,4 @@
-#Digital Product Passport Architecture:
+##Digital Product Passport Architecture:
 
 #1. Product Registration and Identity:
 Components:
