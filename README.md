@@ -78,9 +78,13 @@ Use message brokers for asynchronous communication between components.
 
 ## Considerations:
 -Ensure compliance with data protection and privacy regulations.
+
 -Regularly update and patch system components to address security vulnerabilities.
+
 -Perform penetration testing to identify and address potential security risks.
+
 -Plan for scalability to accommodate a growing number of products and users.
+
 -Consider disaster recovery and backup strategies to prevent data loss.
 
 This architecture is designed to provide a comprehensive and secure Digital Product Passport system, integrating blockchain, IoT, and modern web technologies. It addresses various aspects, including data integrity, real-time updates, user access control, and system scalability. Adjustments may be necessary based on specific use cases and requirements.
